@@ -1,12 +1,11 @@
 ## Library Management System
 
-This is a web-based Library Management System developed  in 5th Semester in  Software Engineering subject.
+This is a basic web-based Library Management System developed  in 5th Semester in  Software Engineering subject.
 
 ##  Technologies Used
 - HTML
 - CSS
 - PHP
-- MySQL
 - XAMPP (Local Server)
 
 ## Features
@@ -28,5 +27,3 @@ This is a web-based Library Management System developed  in 5th Semester in  Sof
 ## Developed For
 Software Engineering – 5th Semester(BIT)
 
-## 👩‍💻 Developed By
-Nandini Dahal
